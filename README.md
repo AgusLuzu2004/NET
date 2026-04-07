@@ -106,11 +106,11 @@ docker run -p 5000:80 todo-api
 
 Durante este proyecto se trabajó en:
 
-Desarrollo de APIs REST con ASP.NET Core
-Uso de Entity Framework Core con SQLite
-Implementación de arquitectura en capas
-Manejo de DTOs y validaciones
-Uso de Git para control de versiones
-Introducción a Docker
+- Desarrollo de APIs REST con ASP.NET Core
+- Uso de Entity Framework Core con SQLite
+- Implementación de arquitectura en capas
+- Manejo de DTOs y validaciones
+- Uso de Git para control de versiones
+- Introducción a Docker
 
 ---
